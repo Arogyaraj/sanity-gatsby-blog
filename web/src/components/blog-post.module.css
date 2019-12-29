@@ -51,10 +51,10 @@
 
   @nest & figure {
     margin: 0;
-    padding: 0;
+    padding: 0.50rem 0;
 
     @nest & img {
-      max-width: 100%;
+      max-width: 70%;
     }
   }
 }

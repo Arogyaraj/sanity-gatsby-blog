@@ -33,7 +33,7 @@ export default {
             value: 'https://github.com/Arogyaraj/sanity-gatsby-blog',
             category: 'Code'
           },
-          { title: 'Frontend', value: 'https://sanity-gatsby-blog-web-unaoo4mh.netlify.com', category: 'apps' }
+          { title: 'Frontend', value: 'https://actressblog.netlify.com/', category: 'apps' }
         ]
       }
     },
